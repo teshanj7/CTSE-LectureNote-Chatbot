@@ -34,7 +34,7 @@ CTSE-LECTURENOTE-CHATBOT/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/CTSE-LECTURENOT.git
+   git clone https://github.com/yourusername/CTSE-LECTURENOT.git](https://github.com/teshanj7/CTSE-LectureNote-Chatbot.git
    cd CTSE-LECTURENOT
    ```
 
